@@ -1,0 +1,131 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cannonpark"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.335389,
+          33.133113
+        ],
+        "type": "Point"
+      },
+      "id": "019eb6ec90c2eaa7b37ee9e971fca7fc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cannon2cannonpark"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -117.333282,
+            33.133088
+          ],
+          [
+            -117.333322,
+            33.133263
+          ],
+          [
+            -117.333635,
+            33.133183
+          ],
+          [
+            -117.335087,
+            33.132682
+          ],
+          [
+            -117.335156,
+            33.132783
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "2605c0dde71c72f5da39d19e8a7cadde"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cannonpark_geofence"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -117.335964,
+              33.133355
+            ],
+            [
+              -117.335196,
+              33.133646
+            ],
+            [
+              -117.334814,
+              33.132878
+            ],
+            [
+              -117.335475,
+              33.13263
+            ],
+            [
+              -117.335964,
+              33.133355
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "28f91106a9973fcb5dfec0fc649fbcc9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "home"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -117.333158,
+              33.133007
+            ],
+            [
+              -117.333214,
+              33.133209
+            ],
+            [
+              -117.333032,
+              33.133259
+            ],
+            [
+              -117.332975,
+              33.133056
+            ],
+            [
+              -117.333158,
+              33.133007
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "d67ddb383ea8fbc5c4e4942f8930aea0"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -117.333088,
+          33.133124
+        ],
+        "type": "Point"
+      },
+      "id": "d882b73fb9c023765fbd2f50bbc07eac"
+    }
+  ],
+  "type": "FeatureCollection"
+}
